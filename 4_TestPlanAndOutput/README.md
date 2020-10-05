@@ -54,9 +54,9 @@ The test cases are executed in Code Blocks IDE.
 |2	|To check whether able to add more info about a particular medicine|	It asks to enter the name of medicine so that it displays its details and we can add more details of that medicine.
 |3|To know the info about the stock of medicine in the store	|Displays the details of all the medicine in the store. The details include name, price, availability, company name, manufacturing date, expiry date, etc.|
 |4	|To know the info about a particular medicine|	It asks to enter the name of the medicine we want so that it displays its details.|
- |5	|To add a new medicine’s details into the record|	It allows us to add the details of a new medicine into the record.|
-  |6	|To delete a medicine from the record|	The deletion of medicine’s details can be performed.|
-   | 7 |	To change the quantity of medicine	|The quantity of medicine can be changed.|
-   | 8|	To continue with other options|	Helps to continue with other options|
-    |9|	To exit|	It exits from the program|
+|5	|To add a new medicine’s details into the record|	It allows us to add the details of a new medicine into the record.|
+ |6	|To delete a medicine from the record|	The deletion of medicine’s details can be performed.|
+ | 7 |	To change the quantity of medicine	|The quantity of medicine can be changed.|
+ | 8|	To continue with other options|	Helps to continue with other options|
+ |9|	To exit|	It exits from the program|
 
