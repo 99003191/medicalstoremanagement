@@ -37,7 +37,7 @@ The test cases are executed in Code Blocks IDE.
 |Test cases|Test scenario	                                                      |Test Steps	             |Test Data   
 |----------|--------------------------------------------------------------------------|------------------------------|---------------------------------------------------
 | 1|	To check if the user can log in using a valid username and password |	Enter username and password  |	Username - medical_store   </br>Password- password
-|2|To know if there is required quantity of medicine in the store and the cost of medicine | Choose option 1| Enter 1 
+|2|To know if there is required quantity of medicine in the store and the cost of medicine | Choose option 1| Enter 1 and enter the quantity of medicine require.|
 |3 |	To check whether able to add more info about a particular medicine    |	Choose option 2	  |  Enter 2 and enter the name of the medicine into which we need to add more info.
 |    4     |	To know the info about the stock of medicine in the store	      |  Choose option 3	     |   Enter 3
 |5|	To know the info about a particular medicine	 |      Choose option 4	     |   Enter 4 and enter the name of the medicine of which we need to know the information.
