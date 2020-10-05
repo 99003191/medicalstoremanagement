@@ -37,13 +37,13 @@ The test cases are executed in Code Blocks IDE.
 |Test cases|Test scenario	                                                      |Test Steps	             |Test Data   
 |----------|--------------------------------------------------------------------------|------------------------------|---------------------------------------------------
 | 1|	To check if the user can log in using a valid username and password |	Enter username and password  |	Username - medical_store   </br>Password- password
-|2 |	To check whether able to add more info about a particular medicine    |	Choose option 2	  |  Enter 2 and enter the name of the medicine into which we need to add more info.
-|    3     |	To know the info about the stock of medicine in the store	      |  Choose option 3	     |   Enter 3
-|4|	To know the info about a particular medicine	 |      Choose option 4	     |   Enter 4 and enter the name of the medicine of which we need to know the information.
-|    5	|To add a new medicine’s details into the record	|   Choose option 5	|   Enter 5 and enter the details of new medicine into the list.
-  |  6|	To delete a medicine from the record|	Choose option 6	|Enter 6 and enter the name of the medicine which we need to delete.|
-  |  7 |	To change the quantity of medicine	|Choose option 7	|Enter 7 and enter the name of the medicine of which we need to change the quantity.|
-  |  8|	To continue with other options	|Choose option 1	|Enter 1|
+|2|To know if there is required quantity of medicine in the store and the cost of medicine | Choose option 1| Enter 1 
+|3 |	To check whether able to add more info about a particular medicine    |	Choose option 2	  |  Enter 2 and enter the name of the medicine into which we need to add more info.
+|    4     |	To know the info about the stock of medicine in the store	      |  Choose option 3	     |   Enter 3
+|5|	To know the info about a particular medicine	 |      Choose option 4	     |   Enter 4 and enter the name of the medicine of which we need to know the information.
+|    6	|To add a new medicine’s details into the record	|   Choose option 5	|   Enter 5 and enter the details of new medicine into the list.
+  |  7|	To delete a medicine from the record|	Choose option 6	|Enter 6 and enter the name of the medicine which we need to delete.|
+  |  8 |	To change the quantity of medicine	|Choose option 7	|Enter 7 and enter the name of the medicine of which we need to change the quantity.|
    | 9	|To exit 	||	Enter any other numbers of keys
 
 
