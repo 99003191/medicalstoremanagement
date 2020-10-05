@@ -43,9 +43,9 @@ The test cases are executed in Code Blocks IDE.
 |    4     |	To know the info about a particular medicine	                      |      Choose option 4	     |   Enter 4 and enter the name of the medicine of which we
 |          |                                                                          |                              |  need to know the information.
 |    5	   |    To add a new medicine’s details into the record	                      |   Choose option 5	     |   Enter 5 and enter the details of new medicine into the   |          |                                                                          |                              |   list.
-    6	To delete a medicine from the record	Choose option 6	Enter 6 and enter the name of the medicine which we need to delete.
-    7 	To change the quantity of medicine	Choose option 7	Enter 7 and enter the name of the medicine of which we need to change the quantity.
-    8	To continue with other options	Choose option 1	Enter 1
-    9	To exit 		Enter any other numbers of keys
+  |  6|	To delete a medicine from the record|	Choose option 6	|Enter 6 and enter the name of the medicine which we need to delete.|
+  |  7 |	To change the quantity of medicine	|Choose option 7	|Enter 7 and enter the name of the medicine of which we need to change the quantity.|
+  |  8|	To continue with other options	|Choose option 1	|Enter 1|
+   | 9	|To exit 	||	Enter any other numbers of keys
 
 
