@@ -51,12 +51,13 @@ The test cases are executed in Code Blocks IDE.
 |Test cases|Test scenario	|Expected Results|
 |----------|-----------------|-----------------------------------------|
 |1	|To check if the user can log in using a valid username and password	|Successful login|
-|2	|To check whether able to add more info about a particular medicine|	It asks to enter the name of medicine so that it displays its details and we can add more details of that medicine.
-|3|To know the info about the stock of medicine in the store	|Displays the details of all the medicine in the store. The details include name, price, availability, company name, manufacturing date, expiry date, etc.|
-|4	|To know the info about a particular medicine|	It asks to enter the name of the medicine we want so that it displays its details.|
-|5	|To add a new medicine’s details into the record|	It allows us to add the details of a new medicine into the record.|
- |6	|To delete a medicine from the record|	The deletion of medicine’s details can be performed.|
- | 7 |	To change the quantity of medicine	|The quantity of medicine can be changed.|
- | 8|	To continue with other options|	Helps to continue with other options|
- |9|	To exit|	It exits from the program|
+|2|To check if there is required quantity of medicine available and to know the price of medicine|It asks to enter the name of medicine which need to be purchased and enter the quantity. It displays whether the quantity we mentioned is available or not and also displays the cost of medicine of the quantity we require|
+|3|To check whether able to add more info about a particular medicine|	It asks to enter the name of medicine so that it displays its details and we can add more details of that medicine.
+|4|To know the info about the stock of medicine in the store	|Displays the details of all the medicine in the store. The details include name, price, availability, company name, manufacturing date, expiry date, etc.|
+|5|To know the info about a particular medicine|	It asks to enter the name of the medicine we want so that it displays its details.|
+|6|To add a new medicine’s details into the record|	It allows us to add the details of a new medicine into the record.|
+ |7|To delete a medicine from the record|	The deletion of medicine’s details can be performed.|
+ | 8|	To change the quantity of medicine	|The quantity of medicine can be changed.|
+ | 9|	To continue with other options|	Helps to continue with other options|
+ |10|	To exit|	It exits from the program|
 
