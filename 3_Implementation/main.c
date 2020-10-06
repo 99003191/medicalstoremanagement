@@ -21,9 +21,9 @@
  scanf("%s",&username);
  printf("\nEnter your password:\t");
  scanf("%s",&password);
- if(strcmp(username,"user")==0)
+ if(strcmp(username,"medical_store")==0)
  {
-  if(strcmp(password,"pass")==0)
+  if(strcmp(password,"password")==0)
   {
    printf("\nWelcome.Login Success!");
    int i,j,choice,number=0,c;
