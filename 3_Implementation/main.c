@@ -28,7 +28,7 @@
    printf("\nWelcome.Login Success!");
    int i,j,choice,number=0,c;
    FILE *fp;
-   fp=fopen("C:\cProject\med\medical\medmanagement.txt","wb");
+   fp=fopen("medmanagement","wb");
    if(fp==NULL)
   {
       printf("File is not opened");
@@ -112,7 +112,7 @@
  void PurchaseMedicine(int number)
  {
   FILE *fp;
-  fp=fopen("C:\cProject\med\medical\medmanagement.txt","rb");
+  fp=fopen("medmanagement","rb");
   if(fp==NULL)
   {
       printf("File is not opened");
@@ -219,7 +219,7 @@
  void EnterInfoAboutMedicine(int number)
  {
   FILE *fp;
-  fp=fopen("C:\cProject\med\medical\medmanagement.txt","rb+");
+  fp=fopen("medmanagement","rb+");
   if(fp==NULL)
   {
       printf("File is not opened");
@@ -271,7 +271,7 @@
  }
  void KnowInfoAboutMedicine(int number){
   FILE *fp;
-  fp=fopen("C:\cProject\med\medical\medmanagement.txt","r");
+  fp=fopen("medmanagement","r");
   if(fp==NULL)
   {
       printf("File is not opened");
@@ -308,7 +308,7 @@
  }
  void StockOfMedicine(int number){
   FILE *fp;
-  fp=fopen("C:\cProject\med\medical\medmanagement.txt","r");
+  fp=fopen("medmanagement","r");
   if(fp==NULL)
   {
       printf("File is not opened");
@@ -342,7 +342,7 @@
  void AddMedicineinStore(int number,struct Medicine m[])
  {
   FILE *fp;
-  fp=fopen("C:\cProject\med\medical\medmanagement.txt","w");
+  fp=fopen("medmanagement","w");
   if(fp==NULL)
   {
       printf("File is not opened");
@@ -380,7 +380,7 @@
  void DeleteMedicineStore(int number)
  {
   FILE *fp;
-  fp=fopen("C:\cProject\med\medical\medmanagement.txt","w");
+  fp=fopen("medmanagement","w");
   if(fp==NULL)
   {
       printf("File is not opened");
@@ -418,7 +418,7 @@
  void ChangeMedicineDetails(int number)
  {
    FILE *fp;
-  fp=fopen("C:\cProject\med\medical\medmanagement.txt","w");
+  fp=fopen("medmanagement","w");
   if(fp==NULL)
   {
       printf("File is not opened");
