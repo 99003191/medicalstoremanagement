@@ -14,7 +14,4 @@ struct Medicine{
   }m[100];
 void AddMedicineinStore(int number,struct Medicine m[]);
 
-
-
-
 #endif // MEDICAL_H_INCLUDED
