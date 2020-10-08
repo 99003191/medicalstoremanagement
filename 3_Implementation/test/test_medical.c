@@ -30,7 +30,6 @@ int main() {
   return 0;
 }
 
-
 /* Write all the test functions */
 
 void test_menu(void) {
