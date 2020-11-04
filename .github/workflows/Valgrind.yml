@@ -1,4 +1,6 @@
 name: Valgrind
+- name: Checkmarx Scan
+  uses: checkmarx-ts/checkmarx-github-action@v1.0.3
 
 on:
   push:
