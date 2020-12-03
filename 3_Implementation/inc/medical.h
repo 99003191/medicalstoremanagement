@@ -5,7 +5,7 @@ void PurchaseMedicine(int number);
 void EnterInfoAboutMedicine(int number);
 void StockOfMedicine(int number);
 void KnowInfoAboutMedicine(int number);
-void DeleteMedicineStore(int number);
+int DeleteMedicineStore(int number);
 void ChangeMedicineDetails(int number);
 void menu();
 
