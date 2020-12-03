@@ -178,7 +178,7 @@ void ChangeMedicineDetails(int number)
     break;
    }
   }}
-  void DeleteMedicineStore(int number)
+int DeleteMedicineStore(int number)
  {
   int id,i,flag=0,num;
   printf("Enter Id to be deleted\n");
@@ -204,8 +204,11 @@ void ChangeMedicineDetails(int number)
   if(flag==1)
   {
    printf("Medicine with %d is Deleted Successfully\n",id);
+     return 1;
   }
+   return 0;
  }
+
  void EnterInfoAboutMedicine(int number)
  {
   int i,flag=0,c;
