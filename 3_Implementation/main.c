@@ -5,7 +5,7 @@
  #include"medical.h"
 
 
- main()
+ void main()
  {
     char username[15];
     char password[12];
