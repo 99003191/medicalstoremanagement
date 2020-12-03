@@ -1,3 +1,7 @@
+#include "CUnit/Basic.h"
+#include <CUnit/CUnit.h>
+#include <medical.h>
+
 #define PROJECT_NAME    "Medical Store Management System"
 
 void test_menu(void);
