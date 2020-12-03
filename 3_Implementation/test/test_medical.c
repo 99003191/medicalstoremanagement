@@ -37,8 +37,8 @@ int main() {
 /* Write all the test functions */
 
 void test_menu(void) {
-  CU_ASSERT(1 == valid_choice(2));
+  CU_ASSERT(1 ==  DeleteMedicineStore(5));
 
   /* Dummy fail*/
-  CU_ASSERT(1 == valid_choice(8));
+  //CU_ASSERT(1 == valid_choice(8));
 }
